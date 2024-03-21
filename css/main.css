@@ -14,10 +14,10 @@ body {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 10vh;
   background-color: var(--dark-color);
   overflow: hidden;
-  perspective: 1000px;
+  perspective: 10px;
 }
 
 .night {
